@@ -1,0 +1,1 @@
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse JSON to POCO\bin\Debug\Parse JSON to POCO.exe.config

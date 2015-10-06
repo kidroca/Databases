@@ -1,0 +1,27 @@
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Helpers\bin\Debug\Helpers.dll
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Helpers\bin\Debug\Helpers.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Helpers\obj\Debug\HomeworkHelpers.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Helpers\obj\Debug\Helpers.dll
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Helpers\obj\Debug\Helpers.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Streams and Files\Helpers\bin\Debug\Helpers.dll
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Streams and Files\Helpers\bin\Debug\Helpers.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Streams and Files\Helpers\obj\Debug\HomeworkHelpers.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Streams and Files\Helpers\obj\Debug\Helpers.dll
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Streams and Files\Helpers\obj\Debug\Helpers.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\XML Processing in .NET\Helpers\bin\Debug\Helpers.dll
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\XML Processing in .NET\Helpers\bin\Debug\Helpers.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\XML Processing in .NET\Helpers\obj\Debug\HomeworkHelpers.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\XML Processing in .NET\Helpers\obj\Debug\Helpers.dll
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\XML Processing in .NET\Helpers\obj\Debug\Helpers.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Functional Programming\Helpers\bin\Debug\Helpers.dll
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Functional Programming\Helpers\bin\Debug\Helpers.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Functional Programming\Helpers\bin\Debug\Class Student.dll
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Functional Programming\Helpers\bin\Debug\Class Student.pdb
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Functional Programming\Helpers\obj\Debug\HomeworkHelpers.csprojResolveAssemblyReference.cache
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Functional Programming\Helpers\obj\Debug\Helpers.dll
+C:\Users\kidroca\Desktop\kidroca workspace\Current Homework\Functional Programming\Helpers\obj\Debug\Helpers.pdb
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Helpers\obj\Debug\HomeworkHelpers.csprojResolveAssemblyReference.cache
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Helpers\obj\Debug\Helpers.dll
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Helpers\obj\Debug\Helpers.pdb
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Helpers\bin\Debug\Helpers.dll
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Helpers\bin\Debug\Helpers.pdb

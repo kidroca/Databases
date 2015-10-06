@@ -1,0 +1,7 @@
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse the XML from the feed to JSON\bin\Debug\Parse the XML from the feed to JSON.dll
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse the XML from the feed to JSON\bin\Debug\Parse the XML from the feed to JSON.pdb
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse the XML from the feed to JSON\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse the XML from the feed to JSON\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse the XML from the feed to JSON\obj\Debug\T1 Parse the XML from the feed to JSON.csprojResolveAssemblyReference.cache
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse the XML from the feed to JSON\obj\Debug\Parse the XML from the feed to JSON.dll
+D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse the XML from the feed to JSON\obj\Debug\Parse the XML from the feed to JSON.pdb

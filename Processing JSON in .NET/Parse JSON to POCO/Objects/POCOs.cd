@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Feed">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Link" Type="ProcessingJson.JsonToPoco.Objects.Link" FixedFromPoint="true">
+      <Path>
+        <Point X="1.25" Y="1.988" />
+        <Point X="1.25" Y="3.148" />
+        <Point X="1.75" Y="3.148" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.017" Y="-0.257" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Author" Type="ProcessingJson.JsonToPoco.Objects.Author" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="1.988" />
+        <Point X="1.25" Y="4.875" />
+        <Point X="1.75" Y="4.875" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.043" Y="-0.248" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Entry" Type="ProcessingJson.JsonToPoco.Objects.Entry" FixedFromPoint="true">
+      <Path>
+        <Point X="2" Y="1.312" />
+        <Point X="2.75" Y="1.312" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAASAAAAAAAAAEAAiAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Objects\Feed.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Author" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Link" />
+      <Property Name="Entry" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Link">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAAA=</HashCode>
+      <FileName>Objects\Link.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Author">
+    <Position X="1.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Entry">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Author" Type="ProcessingJson.JsonToPoco.Objects.Author">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.006" Y="-0.234" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="Link" Type="ProcessingJson.JsonToPoco.Objects.Link" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="2.18" />
+        <Point X="3.5" Y="3.148" />
+        <Point X="3.25" Y="3.148" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.013" Y="-0.253" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAiAAAAAAAAAAAAAAAQAAAQAACAAA=</HashCode>
+      <FileName>Objects\Entry.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Author" />
+      <Property Name="Link" />
+      <Property Name="MediaGroup" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.MediaGroup">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Comunity" Type="ProcessingJson.JsonToPoco.Objects.Media.MediaComunity" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="1.588" />
+        <Point X="7.75" Y="1.588" />
+        <Point X="7.75" Y="2.25" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Thumbnail" Type="ProcessingJson.JsonToPoco.Objects.Media.MediaThumbnail" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="1.375" />
+        <Point X="9.5" Y="1.375" />
+        <Point X="9.5" Y="2.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAgAEAAAAAACAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Objects\MediaGroup.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Content" />
+      <Property Name="Comunity" />
+      <Property Name="Thumbnail" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Media.MediaContent">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Objects\Media\MediaContent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Media.MediaComunity">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Media\MediaComunity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Rating" />
+      <Property Name="Statistics" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Media.MediaThumbnail" Collapsed="true" HideInheritanceLine="true">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Media\MediaThumbnail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Media.MediaBase">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Media\MediaBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Media.MediaStarRating">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAABAAAAAAEAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Media\MediaStarRating.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessingJson.JsonToPoco.Objects.Media.MediaStatistics">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Media\MediaStatistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
