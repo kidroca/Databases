@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="students-stylesheet.xsl" type="text/xsl"?>
+<students
+  xmlns="urn:students"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="students students-schema.xsd">
+  <student>
+    <name>Pesho Kolev</name>
+    <sex>Male</sex>
+    <birth-date>1944-07-23</birth-date>
+    <phone>+359-2-456-1231</phone>
+    <email>p.kolev@email.com</email>
+    <course>HQC</course>
+    <specialty>Software Engineering</specialty>
+    <faculty-number>0912325237</faculty-number>
+    <exams>
+      <exam>
+        <name>C# 1</name>
+        <score>1000</score>
+      </exam>
+    </exams>
+    <enrollment-info>
+      <enrollment-date>2013-01-02</enrollment-date>
+      <exam-score>1000</exam-score>
+    </enrollment-info>
+    <endorsements>Good boy</endorsements>
+  </student>
+  <student>
+    <name>Kliment Ohridski</name>
+    <sex>Male</sex>
+    <birth-date>0840-06-15</birth-date>
+    <phone>+359-32-886-893</phone>
+    <email>glagolitza@gmail.com</email>
+    <course>Cyrillic Languages</course>
+    <specialty>Scientist and Bishop</specialty>
+    <faculty-number>0000000004</faculty-number>
+    <exams>
+      <exam>
+        <name>Glagolitza</name>
+        <score>1000</score>
+      </exam>
+      <exam>
+        <name>Kirilitza</name>
+        <score>1000</score>
+      </exam>
+    </exams>
+    <enrollment-info>
+      <enrollment-date>0859-01-02</enrollment-date>
+      <exam-score>500</exam-score>
+    </enrollment-info>
+    <endorsements>25th Novembre</endorsements>
+  </student>
+</students>
