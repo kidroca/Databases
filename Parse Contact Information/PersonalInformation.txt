@@ -1,0 +1,3 @@
+name Bate Jorko
+address Bulgaria Stara Zagora 6000 "Samarsko Zname" St. 167
+telephone 51366

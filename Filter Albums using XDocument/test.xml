@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name xmlns="urn:catalogue">Master of Puppets</name>
+    <artist xmlns="urn:catalogue">Metallica</artist>
+  </album>
+  <album>
+    <name xmlns="urn:catalogue">PRISM</name>
+    <artist xmlns="urn:catalogue">Katy Pery</artist>
+  </album>
+  <album>
+    <name xmlns="urn:catalogue">Super Trouper</name>
+    <artist xmlns="urn:catalogue">ABBA</artist>
+  </album>
+</albums>

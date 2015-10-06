@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue
+  xmlns="urn:catalogue">
+  <album>
+    <name>Master of Puppets</name>
+    <artist>Metallica</artist>
+    <year>1986</year>
+    <producer>Bate Joro</producer>
+    <price>100</price>
+    <songs>
+      <song>
+        <title>Battery</title>
+        <duration>PT5M12S</duration>
+      </song>
+      <song>
+        <title>Master of Pupptets</title>
+        <duration>PT8M36S</duration>
+      </song>
+      <song>
+        <title>The Thing That Should Not Be</title>
+        <duration>PT6M37S</duration>
+      </song>
+      <song>
+        <title>Welcome Home</title>
+        <duration>PT6M27S</duration>
+      </song>
+      <song>
+        <title>Disposable Heroes</title>
+        <duration>PT8M17S</duration>
+      </song>
+      <song>
+        <title>Leper Messiah</title>
+        <duration>PT5M40S</duration>
+      </song>
+      <song>
+        <title>Orion</title>
+        <duration>PT8M28S</duration>
+      </song>
+      <song>
+        <title>Damage, Inc.</title>
+        <duration>PT5M29S</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>PRISM</name>
+    <artist>Katy Pery</artist>
+    <year>2013</year>
+    <producer>Chicho Mitko</producer>
+    <price>15</price>
+    <songs>
+      <song>
+        <title>Legendary Lovers</title>
+        <duration>PT3M44S</duration>
+      </song>
+      <song>
+        <title>Walking on Air</title>
+        <duration>PT3M42S</duration>
+      </song>
+      <song>
+        <title>This is How We Do</title>
+        <duration>PT3M24S</duration>
+      </song>
+      <song>
+        <title>International Smile</title>
+        <duration>PT3M48S</duration>
+      </song>
+      <song>
+        <title>Ghost</title>
+        <duration>PT3M23S</duration>
+      </song>
+      <song>
+        <title>Love me</title>
+        <duration>PT3M53S</duration>
+      </song>
+      <song>
+        <title>This Moment</title>
+        <duration>PT3M47S</duration>
+      </song>
+      <song>
+        <title>Double Rainbow</title>
+        <duration>PT3M52S</duration>
+      </song>
+      <song>
+        <title>By The Grace of God</title>
+        <duration>PT4M27S</duration>
+      </song>
+      <song>
+        <title>Spiritual</title>
+        <duration>PT4M36S</duration>
+      </song>
+      <song>
+        <title>It Takes Two</title>
+        <duration>PT3M55S</duration>
+      </song>
+      <song>
+        <title>Choose Your Battles</title>
+        <duration>PT3M46S</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Super Trouper</name>
+    <artist>ABBA</artist>
+    <year>1980</year>
+    <producer>Atlantic Records</producer>
+    <price>50</price>
+    <songs>
+      <song>
+        <title>Super Trouper</title>
+        <duration>PT4M13S</duration>
+      </song>
+      <song>
+        <title>The Winner Takes it All</title>
+        <duration>PT4M54S</duration>
+      </song>
+      <song>
+        <title>On And On And On</title>
+        <duration>PT3M41S</duration>
+      </song>
+      <song>
+        <title>Andante, Andante</title>
+        <duration>PT4M40S</duration>
+      </song>
+      <song>
+        <title>Me And I</title>
+        <duration>PT4M55S</duration>
+      </song>
+      <song>
+        <title>Happy New Year</title>
+        <duration>PT4M23S</duration>
+      </song>
+      <song>
+        <title>Our Last Summer</title>
+        <duration>PT2M43S</duration>
+      </song>
+      <song>
+        <title>The Piper</title>
+        <duration>PT3M27S</duration>
+      </song>
+      <song>
+        <title>Lay All Your Love On Me</title>
+        <duration>PT4M28S</duration>
+      </song>
+      <song>
+        <title>The Way Old Friends Do</title>
+        <duration>PT2M57S</duration>
+      </song>
+    </songs>
+  </album>
+</catalogue>

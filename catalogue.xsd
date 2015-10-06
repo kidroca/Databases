@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="catalogue"
+  attributeFormDefault="unqualified" 
+  elementFormDefault="qualified" 
+  targetNamespace="urn:catalogue" 
+  xmlns="urn:catalogue"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:simpleType name="textfield">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="3" />
+      <xs:maxLength value="30" />
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="year">
+    <xs:restriction base="xs:gYear">
+      <xs:maxInclusive value="2100" />
+      <xs:minInclusive value="1000" />
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="songDuration">
+    <xs:restriction base="xs:duration">
+      <xs:pattern value="^PT\d{1,2}M\d{1,2}S$" />
+      <xs:minInclusive value="PT00M05S" />
+      <xs:maxInclusive value="PT59M0S" />
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="albumPrice">
+    <xs:restriction base="xs:unsignedInt">
+      <xs:minInclusive value="0" />
+      <xs:maxInclusive value="109" />
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <xs:element name="catalogue">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="album" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="textfield" />
+              <xs:element name="artist" type="textfield" />
+              <xs:element name="year" type="year" />
+              <xs:element name="producer" type="textfield" />
+              <xs:element name="price" type="albumPrice" />
+              <xs:element name="songs">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="song">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="title" type="textfield" />
+                          <xs:element name="duration" type="xs:duration" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
