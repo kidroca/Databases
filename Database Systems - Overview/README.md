@@ -12,7 +12,7 @@
 
 ### Which are the main functions performed by a Relational Database Management System (RDBMS)?
 
-* ##### CRUD -- Create, Read, Update, Delete 
+* ##### CRUD - Create, Read, Update, Delete 
     > Sometimes called SCRUD with an "S" for Search, these are the four basic functions of presistent storage 
 
 ### Define what is "table" in database terms.
