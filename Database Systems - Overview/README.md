@@ -2,17 +2,17 @@
 
 ### What database models do you know?
 * ##### Hierarchical 
-  > In this model each entity has only one parent but can have several children . At the top of hierarchy there is only one entity which is called Root.
+    > In this model each entity has only one parent but can have several children . At the top of hierarchy there is only one entity which is called Root.
 
 * ##### Network
-  > In the network model, entities are organised in a graph,in which some entities can be accessed through sveral path
+    > In the network model, entities are organised in a graph,in which some entities can be accessed through sveral path
 
 * ##### Relational 
-  > In this model, data is organised in two-dimesional tables called relations. The tables or relation are related to each other.
+    > In this model, data is organised in two-dimesional tables called relations. The tables or relation are related to each other.
 
 ### Which are the main functions performed by a Relational Database Management System (RDBMS)?
 
-* ##### CRUD - Create, Read, Update, Delete 
+* ##### CRUD -- Create, Read, Update, Delete 
     > Sometimes called SCRUD with an "S" for Search, these are the four basic functions of presistent storage 
 
 ### Define what is "table" in database terms.
