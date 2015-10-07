@@ -18,7 +18,7 @@
     
 ### Define what is "table" in database terms.
     
-    > In Relational database, a table is a collection of data elements    organised in terms of rows and columns. A table is also considered as convenient representation of relations. But a table can have duplicate tuples while a true relation cannot have duplicate tuples. Table is the most simplest form of data storage.
+> In Relational database, a table is a collection of data elements    organised in terms of rows and columns. A table is also considered as convenient representation of relations. But a table can have duplicate tuples while a true relation cannot have duplicate tuples. Table is the most simplest form of data storage.
     
 ### Explain the difference between a primary and a foreign key.
     
