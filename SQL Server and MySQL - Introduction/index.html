@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>SQL Server and MySQL - Introduction</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>SQL Server and MySQL - Introduction</h1>
+	</header>
+	<section>
+		<article>
+			<h3>Download and install SQL Server Express</h3>
+			<p>Install also SQL Server Management Studio Express (this could take some effort but be persistent).</p>
+			<img src="1.jpg" />
+		</article>
+		<article>
+			<h3>Connect to the SQL Server with SQL Server Management Studio</h3>
+			<p>Use Windows authentication.</p>
+			<img src="2.png" />
+		</article>	
+		<article>
+			<h3>Create a new database Pubs</h3>
+			<p>Create new login with permissions to connect to it. Execute the script install_pubs.sql to populate the DB contents (you may need slightly to edit the script before).</p>
+			<img src="3.png" />
+			<img src="4.png" />
+			<img src="5.png" />
+		</article>	
+		<article>
+			<h3>Attach the database Northwind to SQL Server and connect to it.</h3>
+			<p>use the files Northwind.mdf and Northwind.ldf</p>
+			<p>A little <a href="http://businessimpactinc.com/install-northwind-database/" title="How to istanll northwind">help</a> from a friend</p>
+			<img src="6.png" />
+		</article>	
+		<article>
+			<h3>Backup the database Northwind</h3>
+			<p>Backup the database Northwind into a file named northwind-backup.bak and restore it as database named North.</p>
+			<h5>Backup</h5>
+			<img src="7.png" />
+			<h5>Restore</h5>
+			<img src="8.png" />
+			<img src="9.png" />
+		</article>	
+		<article>
+			<h3>Export the entire Northwind database as SQL script</h3>
+			<p>Use [Tasks] > [Generate Scripts]</p>
+			<p>Ensure you have exported table data rows (not only the schema).</p>
+			<img src="10.png" />
+		</article>	
+		<article>
+			<h3>Create a database NW</h3>
+			<p>Execute the script in it to create the database and populate table data.</p>
+			<img src="11.png" />
+			<img src="12.png" />
+		</article>
+		<article>
+			<h3>Download and install:</h3>
+			<p>MySQL Community Server</p>
+			<p>MySQL Workbench</p>
+			<p>And the sample databases.</p>
+			<img src="13.png">
+		</article>
+		<article>
+			<h3>Export the sample database "world" as SQL script.</h3>
+			<img src="14.png" />
+		</article>
+		<article>
+			<h3>Modify the script and execute it to restore the database world as "worldNew".</h3>
+			<img src="15.png" />
+		</article>
+		<article>
+			<h3>Connect through the MySQL console client and list the first 20 tons from the database "worldNew".</h3>
+			<img src="16.png" />
+		</article>
+	</section>
+</body>
+</html>
