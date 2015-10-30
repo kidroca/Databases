@@ -11,3 +11,6 @@ D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse JSON to POCO\bin\Debu
 D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse JSON to POCO\obj\Debug\T3 Parse JSON to POCO.csprojResolveAssemblyReference.cache
 D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse JSON to POCO\obj\Debug\Parse JSON to POCO.exe
 D:\Dropbox\Current Homeworks\Processing JSON in .NET\Parse JSON to POCO\obj\Debug\Parse JSON to POCO.pdb
+D:\Dropbox\Programing Projects\C#\HomeWork\Databases\Processing JSON in .NET\Parse JSON to POCO\bin\Debug\Parse JSON to POCO.exe.config
+D:\Dropbox\Programing Projects\C#\HomeWork\Databases\Processing JSON in .NET\Parse JSON to POCO\obj\Debug\Parse JSON to POCO.exe
+D:\Dropbox\Programing Projects\C#\HomeWork\Databases\Processing JSON in .NET\Parse JSON to POCO\obj\Debug\Parse JSON to POCO.pdb

@@ -10,3 +10,6 @@ D:\Dropbox\Current Homeworks\Processing JSON in .NET\Select All Videos\bin\Debug
 D:\Dropbox\Current Homeworks\Processing JSON in .NET\Select All Videos\obj\Debug\T2 Select All Videos.csprojResolveAssemblyReference.cache
 D:\Dropbox\Current Homeworks\Processing JSON in .NET\Select All Videos\obj\Debug\Select All Videos.exe
 D:\Dropbox\Current Homeworks\Processing JSON in .NET\Select All Videos\obj\Debug\Select All Videos.pdb
+D:\Dropbox\Programing Projects\C#\HomeWork\Databases\Processing JSON in .NET\Select All Videos\bin\Debug\Select All Videos.exe.config
+D:\Dropbox\Programing Projects\C#\HomeWork\Databases\Processing JSON in .NET\Select All Videos\obj\Debug\Select All Videos.exe
+D:\Dropbox\Programing Projects\C#\HomeWork\Databases\Processing JSON in .NET\Select All Videos\obj\Debug\Select All Videos.pdb
